@@ -1,0 +1,1 @@
+There is no code attached to this github repo yet. Currently we are just using the wiki part of github to document the codebase. Like any good programmers we like to document while we code. So if we ever get this framework cleaned up we will release the code. For now we are just using the documenting part of Github. 
