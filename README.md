@@ -1,1 +1,5 @@
-There is no code attached to this github repo yet. Currently we are just using the wiki part of github to document the codebase. Like any good programmers we like to document while we code. So if we ever get this framework cleaned up we will release the code. For now we are just using the documenting part of Github. 
+This is just a work in progress. Nothing really to see here yet. 
+
+The idea is we create a MVC framework for building javascript apps. 
+
+We are just getting started on this.
